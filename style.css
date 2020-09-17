@@ -127,7 +127,7 @@ body {
 
 .mobile-nav {
   z-index: 9;
-  display: block;
+  display: none;
   position: absolute;
   right: -350px;
   top: 0;
